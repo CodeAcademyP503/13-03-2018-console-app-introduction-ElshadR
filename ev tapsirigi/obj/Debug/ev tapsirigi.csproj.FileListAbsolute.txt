@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ev tapsirigi\ev tapsirigi\obj\Debug\ev tapsirigi.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\ev tapsirigi\ev tapsirigi\obj\Debug\ev tapsirigi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ev tapsirigi\ev tapsirigi\bin\Debug\ev tapsirigi.exe.config
+C:\Users\HP\source\repos\ev tapsirigi\ev tapsirigi\bin\Debug\ev tapsirigi.exe
+C:\Users\HP\source\repos\ev tapsirigi\ev tapsirigi\bin\Debug\ev tapsirigi.pdb
+C:\Users\HP\source\repos\ev tapsirigi\ev tapsirigi\obj\Debug\ev tapsirigi.exe
+C:\Users\HP\source\repos\ev tapsirigi\ev tapsirigi\obj\Debug\ev tapsirigi.pdb
