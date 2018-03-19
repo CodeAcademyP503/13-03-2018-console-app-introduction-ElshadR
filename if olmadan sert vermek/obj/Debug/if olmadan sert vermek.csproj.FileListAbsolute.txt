@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\if olmadan sert vermek\if olmadan sert vermek\obj\Debug\if olmadan sert vermek.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\if olmadan sert vermek\if olmadan sert vermek\obj\Debug\if olmadan sert vermek.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\if olmadan sert vermek\if olmadan sert vermek\bin\Debug\if olmadan sert vermek.exe.config
+C:\Users\HP\source\repos\if olmadan sert vermek\if olmadan sert vermek\bin\Debug\if olmadan sert vermek.exe
+C:\Users\HP\source\repos\if olmadan sert vermek\if olmadan sert vermek\bin\Debug\if olmadan sert vermek.pdb
+C:\Users\HP\source\repos\if olmadan sert vermek\if olmadan sert vermek\obj\Debug\if olmadan sert vermek.exe
+C:\Users\HP\source\repos\if olmadan sert vermek\if olmadan sert vermek\obj\Debug\if olmadan sert vermek.pdb
